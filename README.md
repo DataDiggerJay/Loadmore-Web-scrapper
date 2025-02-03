@@ -1,6 +1,4 @@
-Great! Here’s a **README.md** file tailored specifically for your **GitHub repository**:  
 
----
 
 # **LoadMore Web Scraper** 🚀  
 A **Selenium & BeautifulSoup-based web scraper** that automates **dynamic content extraction** from websites with "Load More" buttons. This script continuously **clicks the button, scrapes article details, and stores them** in an Excel file, ensuring **incremental backups** to prevent data loss.  
